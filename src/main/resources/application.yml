@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://deepaksharma:admin@cluster0.rk5ue.mongodb.net/ngmrngbatch?retryWrites=true&w=majority
